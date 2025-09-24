@@ -1,9 +1,11 @@
 # backup-to-discord
 
 > [!WARNING]
-> Use of this program might violate the [Discord Developer Policy](https://support-dev.discord.com/hc/en-us/articles/8563934450327-Discord-Developer-Policy). Proceed with caution.
+> Use of this program might violate the [Discord Developer Policy](https://support-dev.discord.com/hc/en-us/articles/8563934450327-Discord-Developer-Policy).
 >
 > I created this program, and use it, in good faith and with no ill intention. If you use this program with ill intent, Discord might punish you.
+>
+> If you are from Discord and wish for this repository to be removed, please email me: `hi at valbuilds dot xyz`
 
 A simple program that automatically backs up a directory to Discord.
 
