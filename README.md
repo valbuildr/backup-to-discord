@@ -15,7 +15,7 @@ Originally made for backing up a Minecraft world, but could be used for other th
 
 ### Prerequisites
 
-- Python 3.11 (use `python --version` to check if you have Python)
+- Python 3.11 (use `python3 --version` to check if you have Python)
 
 ### Steps
 
